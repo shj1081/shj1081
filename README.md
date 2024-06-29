@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-SKKU Industrial Engineering / computer science and engineering
+SKKU Industrial Engineering / Computer Science and Engineering
 <!--
 **shj1081/shj1081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
